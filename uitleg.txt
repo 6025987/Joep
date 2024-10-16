@@ -1,0 +1,4 @@
+Het is mij niet gelukt om docker te kunnen instaleren, 
+ik had de files gebruikt die op teams waren geupload geprobeerd te gebruiken,
+dat lukte niet en ik heb ook een tutorial opgezocht of dat miscchien zou lukken maar nee dat lukte ook niet.
+Ik kan met u op vrijdag er even aan zitten om het op te lossen.
